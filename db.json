@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "nome": "Marcela da Silva", "image": "https://engenharia360.com/wp-content/uploads/2019/05/esta-pessoa-nao-existe-engenharia360-4.png" },
+    { "id": 2, "nome": "José Luiz Felipe", "image": "https://pbs.twimg.com/media/E3XbjErXwAEk8Sd.jpg" },
+    { "id": 3, "nome": "Paulo Rogério", "image": "https://hypescience.com/wp-content/uploads/2010/03/feliz.jpg" },
+    { "id": 4, "nome": "Felipe da Cunha", "image": "https://grupomidia.com/hcm/wp-content/uploads/2020/12/UnimedPetropolis2-800x600.jpg" },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "image": "https://i.pinimg.com/236x/bf/ff/62/bfff626286d44454a38ebc696ddf551f.jpg" }
+  ],
+}
